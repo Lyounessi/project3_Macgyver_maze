@@ -26,7 +26,7 @@ for i, line in enumerate(maze):
 
     
 # ----------------------------------------------------------
-# Find the position of the letter "M" in the list self.carte
+# Find the position of the letter "M" in the list maze
 # ----------------------------------------------------------
 
 """In this phase we will try to find the position of
